@@ -6,13 +6,13 @@
     "pools": [
         {
             "coin": null,
-            "algo": null,
-            "url": "rx-eu.unmineable.com:0",
-            "user": "bc1q2ay2dr0fyx5yfqsevv9ureyk37hhft07lqpu35",
+            "algo": "rx/0",
+            "url": "randomxmonero.auto.nicehash.com:9200",
+            "user": "NHbLFqNJHE8foE6ENcSvBnupA2C5RekuiyMF",
             "pass": "x",
             "tls": false,
             "keepalive": true,
-            "nicehash": false
+            "nicehash": true
         }
     ]
 }
