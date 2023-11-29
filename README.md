@@ -1,0 +1,2 @@
+# xmrig
+XMRIG with config.
