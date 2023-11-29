@@ -1,28 +1,14 @@
 {
-  "autosave": true,
-  "cpu": true,
-  "opencl": false,
-  "cuda": false,
-  "pools": [
-    {
-      "coin": null,
-      "algo": null,
-      "url": "34.149.22.228:3333",
-      "user": "NHbLFqNJHE8foE6ENcSvBnupA2C5RekuiyMF",
-      "pass": "x",
-      "tls": false,
-      "keepalive": true,
-      "nicehash": true
-    },
-    {
-      "coin": null,
-      "algo": null,
-      "url": "34.149.22.228:9200",
-      "user": "NHbLFqNJHE8foE6ENcSvBnupA2C5RekuiyMF",
-      "pass": "x",
-      "tls": false,
-      "keepalive": true,
-      "nicehash": true
-    }
-  ]
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "url": "xmr-eu1.nanopool.org:14433",
+            "user": "bc1q2ay2dr0fyx5yfqsevv9ureyk37hhft07lqpu35",
+            "tls": true
+        }
+    ]
 }
