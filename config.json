@@ -7,7 +7,7 @@
         {
             "coin": "monero",
             "url": "xmr-eu1.nanopool.org:14433",
-            "user": "NHbLFqNJHE8foE6ENcSvBnupA2C5RekuiyMF",
+            "user": "NHbLFqNJHE8foE6ENcSvBnupA2C5RekuiyMF.rig1",
             "tls": true
         }
     ]
